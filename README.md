@@ -132,6 +132,18 @@ memory** recallable from any room, and the **dispatcher** that must be
 introduced to the newcomer. Nearly every failure so far was exactly one
 of these four left behind.
 
+## Timeline
+
+```mermaid
+timeline
+    title The research so far
+    late Aug 2026 : two local models of different lineages argue - a critic judges coherence, never truth (19/20) : privacy becomes law after one bad push - "everyone gets their own library"
+    Aug 26-28 : recall is tuned on measured distances, not by feel : the hippocampus grows engrams with triggers : rules are written in blood - one truth one place, the backlog is the list
+    Aug 31 : the secretary is born - reads only granted folders, writes only at a touch : the personal calendar arrives, driven by dictation alone
+    Sep 1 : the training protocol is written and immediately proven - bench scores rise : recurring events become seeds that germinate forever : the photograph experiment - memory grafts alone teach a frozen model to read a shift-sheet : this book opens
+    next : a tiny model grown from zero, area by area, bench by bench
+```
+
 ## What comes next
 
 A model of its own, **grown from zero** on the same desk — tiny, modern

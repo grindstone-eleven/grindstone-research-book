@@ -211,9 +211,16 @@ building.
 - Reads photographed shift-sheets into the agenda (final exam: 10/10
   across five different sheets); appointments and reminders kept
   visually and semantically distinct.
-- Real system notifications on the phone: a good-morning digest and a
-  knock before each appointment — composed and encrypted at home, the
-  push gateway carries only ciphertext.
+- Real system notifications on the phone: a good-morning digest, a
+  knock before each appointment, the outcome of every long job, the
+  night's diary — each signed by its sender and routed to the right
+  app, composed and encrypted at home; the push gateway carries only
+  ciphertext. Tunable from a settings pane: lead time, digest hour,
+  per-source switches.
+- Long work is a ticket, not a wait: hand the bar a photograph, get a
+  receipt, close the app — jobs queue through a single heavy-work
+  tunnel (chat keeps its own fast lane), and the phone is knocked
+  when each one lands.
 
 **The safety rails**
 - Read-only by default: the system never deletes, sends or executes on

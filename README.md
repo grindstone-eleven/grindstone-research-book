@@ -174,6 +174,68 @@ raised area by area with a curriculum, each area guarded by its own
 bench so new learning can never silently break old. It has a name
 already. It will earn its page here when it earns its scores.
 
+## What the companion can do today
+
+Everything below runs on one consumer desktop, reachable only through a
+private mesh network. No cloud, no subscriptions, no data leaving the
+building.
+
+**Conversation & judgement**
+- Private chat with local models; an independent critic of a different
+  lineage reviews every answer's coherence before delivery (19/20 on
+  its benchmark), with one honest regeneration on failure — and a
+  visible trail of how each answer was made.
+- Live tables, charts, structured cards and choice-prompts in chat;
+  images understood through an adaptive visual pipeline.
+- A local library (RAG) that answers only from its own shelves and says
+  so when the shelves are silent; optional supervised learning from the
+  web.
+
+**Memory that learns**
+- A hippocampus of teachable memories: capabilities are taught, scored
+  on benches, reinforced or weakened — never hardcoded. A written
+  training protocol makes any new skill repeatable.
+- Routing dendrites send each request to the right organ; night cycles
+  consolidate the day into next-morning proposals.
+
+**The secretary**
+- Reads and files documents only in folders the owner has granted, one
+  by one; every write is a proposal a human confirms with a touch.
+- A filing doctrine lives inside the archive itself, editable by hand.
+
+**The calendar**
+- An installable private calendar driven by dictation alone: create,
+  modify, move by common trait («move today's shipments to tomorrow»),
+  delete by name — recurring events stored as seeds that germinate
+  forever.
+- Reads photographed shift-sheets into the agenda (final exam: 10/10
+  across five different sheets); appointments and reminders kept
+  visually and semantically distinct.
+- Real system notifications on the phone: a good-morning digest and a
+  knock before each appointment — composed and encrypted at home, the
+  push gateway carries only ciphertext.
+
+**The safety rails**
+- Read-only by default: the system never deletes, sends or executes on
+  its own; the owner's touch is the only pen.
+- A pre-commit guardian scans anything leaving the house for keys,
+  personal data and unexamined images — with different severity for
+  public and private destinations.
+- Every module ships with declared functions, a written mandate, and
+  hard guardrails the model cannot negotiate.
+
+## For companies
+
+This architecture — a local, teachable, privacy-first assistant that
+learns your procedures through measured training instead of custom
+code — can be adapted to a company's own hardware and knowledge:
+document filing with your folder doctrine, schedules from your paper
+forms, notifications on your team's phones, all inside your walls.
+
+If that sounds like something your organization needs, reach out
+through this repository — open an issue, or contact the owner via the
+GitHub profile.
+
 ## What stays private
 
 The code, the library, the memories and the life inside them belong to

@@ -129,6 +129,11 @@ what it wears on its eyes, and how it is told to decide.
 - **Corrections that stick** — mistakes are charged to the specific
   memories that caused them (pain), the lesson is grafted back, and the
   same bench re-measures. Praise reinforces. Bench scores above.
+- **The heart learned to knock** — real system notifications on a
+  phone, end to end from the house: the heart watches the agenda once
+  a minute, a good-morning digest at 8:00, a knock half an hour before
+  every appointment. The push gateway carries only ciphertext; the
+  words are composed, encrypted and remembered at home.
 
 ## The training protocol (distilled from failures)
 

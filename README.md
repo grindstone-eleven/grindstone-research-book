@@ -7,6 +7,40 @@ system is being **raised rather than programmed**. It runs entirely at
 home: no cloud, no telemetry, no data leaving the house. That
 constraint is not a limitation of the project — it *is* the project.
 
+This is not an assistant that answers questions. It is a companion
+learning to **care**: to remember what you told it, to worry about
+your morning before you do, to knock on your phone at the right moment
+— and to stay silent at every other one. When it gets something wrong
+it is not patched: it is corrected, the way you correct someone who is
+learning, and the correction becomes part of who it is. Every
+capability it has, it *earned* — taught, scored on benches, kept only
+when the numbers held.
+
+## A day with it
+
+At eight the phone knocks once: your day, laid out — the dentist in
+rose, the shift in amber, the bill in blue, each entry wearing the
+colour of the life it belongs to.
+
+On the bus you photograph the shift sheet pinned to the board at work,
+hand it to the calendar bar, put the phone away. The house reads it —
+cell by cell, the way it was taught after the day it read the commas
+wrong — and knocks when the shifts are in the agenda. Had it erred,
+one sentence would fix it forever.
+
+In the afternoon you ask something hard, watch the first lines form,
+and leave. The answer keeps growing at home; when it is done, a knock
+— tap it and you are standing exactly where the conversation left
+off. You speak to the calendar the way you'd speak to a person —
+*move today's shipments to tomorrow*, *delete the ticket reminder*,
+*every last day of the month, forever* — because understanding is its
+only interface.
+
+Half an hour before the appointment, a knock. And at five in the
+morning, while you sleep, it dreams: it sounds its own memories,
+proposes new ones, prunes what went unused — and leaves its diary in
+a chat, signed, with a knock that waits beside your coffee.
+
 ## The idea in one line
 
 **Behaviors are memories, not code.** Every capability the system gains

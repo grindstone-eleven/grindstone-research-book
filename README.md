@@ -1,6 +1,31 @@
+<div align="center">
+
+<img src="docs/logo-256.png" width="120" alt="the companion" />
+
 # Grindstone Research Book
 
+**A companion that is raised, not programmed — living entirely on one desk.**
+
+![local](https://img.shields.io/badge/cloud_calls-zero-2a2e3a?labelColor=12141a&color=e8a33d)
+![privacy](https://img.shields.io/badge/your_data_leaves_home-never-12141a?labelColor=12141a&color=7dc98f)
+![push](https://img.shields.io/badge/iOS_system_notifications-yes-12141a?labelColor=12141a&color=e8a33d)
+![taught](https://img.shields.io/badge/behaviors-taught,_not_coded-12141a?labelColor=12141a&color=b58cd9)
+
 *the public notebook of a private experiment — grindstone-eleven*
+
+</div>
+
+## At a glance
+
+| | |
+|---|---|
+| 🏠 Hardware | one consumer desktop, a €600 gaming GPU |
+| 🧠 Brain | a 35-billion-parameter mixture-of-experts, running at home |
+| 📚 Memory | ~200 teachable engrams in a hippocampus, grown one by one |
+| 📷 Photo exam | **10/10** shift-sheets read into the agenda, zero errors |
+| ⚖️ Critic | independent second model reviews every answer — 19/20 benchmark |
+| 🔔 Care | morning digest, pre-appointment knocks, night diary — encrypted at home |
+| ☁️ Cloud | **zero** — the push gateway only ever carries ciphertext |
 
 Somewhere in northern Italy, on ordinary consumer hardware, a small
 system is being **raised rather than programmed**. It runs entirely at

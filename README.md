@@ -220,7 +220,17 @@ building.
 - Long work is a ticket, not a wait: hand the bar a photograph, get a
   receipt, close the app — jobs queue through a single heavy-work
   tunnel (chat keeps its own fast lane), and the phone is knocked
-  when each one lands.
+  when each one lands. Tapping the knock opens the exact conversation
+  it came from.
+- The queue is a citizen of the interface: a quiet row of breathing
+  pills shows everything the house is working on right now, in the
+  chat and in the calendar alike. Walk away from a generating chat
+  and the lane frees itself; write into a busy one and your message
+  waits its turn and sends alone.
+- Events dress themselves: the model files each dictated entry into
+  one of eight home categories (work, health, family, house, study,
+  leisure, money, travel) and the calendar wears the colour — shape
+  still tells the kind, colour now tells the life it belongs to.
 
 **The safety rails**
 - Read-only by default: the system never deletes, sends or executes on

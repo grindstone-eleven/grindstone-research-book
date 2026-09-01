@@ -76,10 +76,10 @@ the improvement lives in the system's memory, nowhere else.
 ```mermaid
 xychart-beta
     title "Reading errors per virgin round (lower is better)"
-    x-axis ["r1", "r2", "r3", "r4", "r5", "r6", "r7", "r8"]
+    x-axis ["r1", "r2", "r3", "r4", "r5", "r6", "r7", "r8", "r9", "r10", "r11"]
     y-axis "errors" 0 --> 8
-    line [0, 3, 5, 8, 0, 2, 0, 1]
-    bar [0, 3, 5, 8, 0, 2, 0, 1]
+    line [0, 3, 5, 8, 0, 2, 0, 1, 0, 0, 0]
+    bar [0, 3, 5, 8, 0, 2, 0, 1, 0, 0, 0]
 ```
 
 Rounds 1–5: the lessons existed but **never woke up** — the memories'
@@ -95,6 +95,13 @@ transcription*): errors collapsed. Three lessons entered the protocol:
 3. **Too much procedure drowns the apprentice** — a stricter checklist
    *lowered* the score and was rolled back. Like model checkpoints:
    the best *measured* version is kept, not the latest written.
+4. **When the residual error is perception, heal the organ, not the
+   memory** — the last stubborn error (a neighbouring row bleeding into
+   the reading) survived every graft. The cure was a pair of glasses:
+   an adaptive image-preparation organ in the pipeline (upscale small
+   photos, per-photo contrast, light sharpening) that now serves every
+   photograph the system will ever see. Rounds 9–11: **zero errors,
+   three times in a row** (chart above). Experiment closed.
 
 ### Other results that held
 

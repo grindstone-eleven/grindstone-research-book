@@ -101,7 +101,17 @@ transcription*): errors collapsed. Three lessons entered the protocol:
    an adaptive image-preparation organ in the pipeline (upscale small
    photos, per-photo contrast, light sharpening) that now serves every
    photograph the system will ever see. Rounds 9–11: **zero errors,
-   three times in a row** (chart above). Experiment closed.
+   three times in a row** (chart above).
+5. **Reading is not chatting** — the remaining run-to-run variance was
+   sampling: with a photograph in hand, the model now decodes at
+   temperature zero. Same photo, same reading, forever.
+
+**Final exam**: five different shift-sheets — four never seen during
+training, one with a vacation band crossing the row, one with an
+odd early clock-out — two virgin rounds each: **10/10, zero errors,
+twin rounds byte-identical**. Capability consolidated; experiment
+closed. The frozen model reads the grid through what it remembers,
+what it wears on its eyes, and how it is told to decide.
 
 ### Other results that held
 

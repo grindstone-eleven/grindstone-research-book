@@ -7,12 +7,6 @@ system is being **raised rather than programmed**. It runs entirely at
 home: no cloud, no telemetry, no data leaving the house. That
 constraint is not a limitation of the project — it *is* the project.
 
-> **This file is the project's living document.** Findings land here as
-> they mature. The original `grindstone` README is deprecated and kept
-> only as history.
-
----
-
 ## The idea in one line
 
 **Behaviors are memories, not code.** Every capability the system gains

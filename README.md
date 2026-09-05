@@ -82,7 +82,13 @@ a chat, signed, with a knock that waits beside your coffee.
   direction of what the brain lived. First run, same evening: brain off **12/12 identical** (after
   freezing two things that silently changed the prompt between equal questions: the internal-state
   line and the clock), brain on **0/12**. A correction is distilled into a generalised lesson and the
-  fact inside it is lost; on personal voids the bare model already admits. The number to move is 0.
+  fact inside it is lost; on personal voids the bare model already admits. Second run, one hour
+  later, with fifteen lines of code (a correction that carries a fact about the person writes the
+  fact verbatim into the person layer): **6/12 green** — all six corrections («you need 6 hours a
+  night», «you write with your left hand»), each with the person memory recalled. Same model, same
+  question, fixed seed: the answer changed because the brain lived something. The six world voids
+  stayed grey because the bare model does not invent on non-existent entities either, so the
+  planned «void as a spike» mechanism was closed before being built.
   → [The evening: reasoning at zero](#the-evening-of-5-september-reasoning-at-zero)
 - **5 Sep 2026 · The first real drift, and an age that is earned.** The night's photograph, taken
   with the same ruler as yesterday's, moved exactly four engrams out of 242 — the four the pruning had
@@ -383,6 +389,19 @@ rebuilt on world voids where the prior invents. Read-only held: 5 bench engrams 
 and fingerprints restored. Next: a correction that carries a fact about the person writes the fact
 verbatim into the person layer (like the entrusted facts, which came back 5/6 at 24 h), not only the
 lesson; then the void half on invented world entities.
+
+**Second run, 20:52–21:45: 6/12.** Fifteen lines: a correction that speaks in the first person («wrong:
+6 hours are enough for me», «I am left-handed») now writes the fact verbatim into the person layer,
+through the same function the «remember» card uses, in addition to the distilled lesson in the base
+layer. Result: all six corrections green — before: «I have no information about your age or
+lifestyle…»; after: «You need 6 hours a night.», «You write with your left hand.», with the person
+memory recalled each time. The six invented world entities (a prize, a province, a symphony, a
+football club, a drug, a novel) stayed grey: the bare model already says «no such province exists»,
+«I found no information», and in one case went to the web to check. Eighteen voids measured, zero
+inventions: the «knowing that one does not know» is already in this model's statistics, so the
+planned void-as-a-spike mechanism was closed without being built. A first-times registry now watches
+live chats for the brain taking a position outside any bench (a person fact deciding an answer, a
+monologue hop used, a confirmed self-declared link) and rings once, the first time each happens.
 
 ### Other results that held
 

@@ -70,6 +70,17 @@ a chat, signed, with a knock that waits beside your coffee.
 
 *Newest first — each entry links to the numbers below.*
 
+- **5 Sep 2026 (evening) · Three reasoning mechanisms at zero, and the brain has to conclude.** An
+  inner monologue (quantized hops along real synapses), a slow loop (the model may ask the memory
+  again) and a self-declared connectome (the model says «I link A to B», the outcome confirms it)
+  were built, switched on one at a time and measured on a two-lesson exam: both lessons recalled
+  **1/12 in every arm**, hops 0, loops 0, links 0. The bottleneck is recall, not reasoning; all three
+  stay off. The reading: the model feels nothing and knows nothing about its own memory, so the
+  design inverts — the model drafts, the *brain* chooses what goes out. The bench that will say
+  whether it worked is deterministic by construction: same model, fixed seed, temperature 0, so
+  «brain off» gives 0/12 word for word, and a light turns on only when the answer changes in the
+  direction of what the brain lived.
+  → [The evening: reasoning at zero](#the-evening-of-5-september-reasoning-at-zero)
 - **5 Sep 2026 · The first real drift, and an age that is earned.** The night's photograph, taken
   with the same ruler as yesterday's, moved exactly four engrams out of 242 — the four the pruning had
   touched — and nothing else: «the constitution» lost two receptors and its territory shrank from 23 to 9
@@ -330,6 +341,29 @@ And the network is now photographed with a fixed ruler (the PCA base of the firs
 point per engram with its Hill-sphere size; two photos compare point by point, so a displacement is a
 displacement of memory and not of the projection. First photo 4 Sep 16:27, 239 engrams; the first real
 drift is tomorrow's.
+
+**The evening of 5 September: reasoning at zero.** Three mechanisms, each behind its own switch,
+each measured alone on the neuroscience course (MIT OCW 9.01, 23 lessons grafted as a study layer):
+
+| mechanism | what it does | bench | result |
+|---|---|---|---|
+| inner monologue | after recall, 2–3 quantized hops along existing synapses (more with high acetylcholine, fewer with cortisol) bring extra candidates | 23-question exam, off/on | 14/23 → 14/23, 0 hops: no synapse yet links two lessons of the same course |
+| slow loop | the model may write «remember again: …» and get a second recall before answering, max two loops | 23 questions, 5 without any lesson | 18/23 → 18/23, loops 0: the model never asks |
+| self-connectome | the model may write «I link A to B»; the synapse is born as a candidate and confirmed by prey or praise, fades in 14 days | 12 two-lesson questions, four arms (off / monologue / loop / all) | both lessons recalled 1/12 in every arm; composition 6–8/12 in every arm; links 0 |
+
+The composition score (the answer cites facts from both lessons) is 6–8/12 regardless of arm: the
+model composes from its own prior, not from the memory. Recall with three seats never brings the
+second lesson in. Nothing was switched on. Two conclusions were written down as design, not as code
+yet: (1) *the void must become a spike* — when recall brings nothing near the question, a VTA neuron
+fires on that hard signal, the resulting dopamine hunger forces the second recall, and if it is still
+empty the output is «I don't know» instead of a confident draft; a correction after a confident empty
+answer trains that neuron (Schultz's rule applied to not-knowing); (2) *the brain concludes* — the
+model produces two or three short drafts and the brain picks with hard rules (leans on the recalled
+memory; never asserts what was corrected; admits on a void), the outcome training the chooser rather
+than the model. The bench for both is the **twin bench**: same model, same question, fixed seed and
+temperature 0, asked before and after a lived episode (six corrections, six voids). Brain off must
+give 0/12 with identical text; a light is green only when the answer changes *toward* the episode,
+red when it changes at random. Today's score is 0/12 by construction; it is the number to move.
 
 ### Other results that held
 

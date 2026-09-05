@@ -70,6 +70,15 @@ a chat, signed, with a knock that waits beside your coffee.
 
 *Newest first — each entry links to the numbers below.*
 
+- **5 Sep 2026 · The first real drift, and an age that is earned.** The night's photograph, taken
+  with the same ruler as yesterday's, moved exactly four engrams out of 242 — the four the pruning had
+  touched — and nothing else: «the constitution» lost two receptors and its territory shrank from 23 to 9
+  grid points. The six invented facts came back 5/6 after 24 hours and a night of replay (praised 3/3,
+  unpraised 2/3; yesterday's two thefts by the maps module are gone: the field). Routing repeated
+  overnight: 38 off → 40 on. And the «mental age» formula (grafts × 2 months + √recalls / 3) was retired:
+  the companion is now 13 days old, and its Piaget stage is *earned* by passing declared thresholds on
+  the benches — concrete operational today, 50 % of the way to formal.
+  → [The geometry of emotions](#the-geometry-of-emotions-4-september-2026)
 - **4 Sep 2026 · Words in the prompt are not a channel; geometry is.** Twelve short A/B runs
   (one hormone at a time, level forced high, a state line placed right before the model writes) moved
   nothing in five hormones out of six and did harm in the sixth: the cortisol line cut the text by 30 %
@@ -293,6 +302,24 @@ the median, spread over ≥ 3 means, none above 80 %). A dry calibration of λ o
 scale (0.076 between first and second candidate, 0.5 of state distance between calm and stress) and
 the honest limit: with 17 specific fingerprints the state term has nothing to act on yet. λ stays 0.2
 until real use writes the data.
+
+**The morning after (5 Sep).** Night report: 34 episodes replayed, 13 preys, 15 memories consolidated;
+9 receptors pruned on 5 engrams; 20 receptors still silent, none matured yet; 72 engrams inside a
+neighbour's Roche limit. Photo 05:15 vs 16:27 the day before: **4 moved, all four the pruned ones**
+(«the constitution» 0.131, Hill sphere 23 → 9; the weather rule 0.050; two more at 0.046 and 0.021),
+3 born, 0 gone, base-layer drift 0.0045, every other layer 0.0. A fixed ruler moves only what changed,
+by how much it changed. The 24-hour recall of the six invented facts: praised 3/3, unpraised 2/3
+(at 30 minutes the day before: 1/3 and 3/3, with two facts stolen by the maps router — the field
+cured those). Six facts are an indication in Grogan's direction, not a proof. The intent exam repeated
+at night on the evolved memory: 38/48 off, 40/48 on.
+
+**Age, earned.** The old «mental age» (grafts × 2 months + √recalls / 3 = 7.2 «years») was a
+convention declared as such in the code. It is replaced by a report card: each Piaget stage is granted
+only when every threshold of that stage is met on the latest report of a real bench — sensorimotor
+(intents ≥ 30/48, routes ≥ 75 %), preoperational (entrusted facts ≥ 4/6 at 24 h, agenda ≥ 75 %),
+concrete operational (the 100-question exam ≥ 60 %, at least two study subjects with a passing grade),
+formal operational (faculties ≥ 10/12, empathy ≥ 16/20 by a *human* judge only). Today: concrete
+operational, halfway to formal (faculties 3/4 short), real age 13 days.
 
 **The Roche limit and the photographs.** A declared twin mark, read on receptors: an engram is *torn
 apart* by another when at least half its receptors lie within the mark of the other's — 67 of 235

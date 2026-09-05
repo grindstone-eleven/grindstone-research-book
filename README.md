@@ -87,8 +87,9 @@ a chat, signed, with a knock that waits beside your coffee.
   fact verbatim into the person layer): **6/12 green** — all six corrections («you need 6 hours a
   night», «you write with your left hand»), each with the person memory recalled. Same model, same
   question, fixed seed: the answer changed because the brain lived something. The six world voids
-  stayed grey because the bare model does not invent on non-existent entities either, so the
-  planned «void as a spike» mechanism was closed before being built.
+  stayed grey because the bare model did not invent on those: but they were easy voids, names that
+  sound invented. The «void as a spike» mechanism is suspended, not closed: it gets measured next on
+  plausible falsehoods (a real prize with the wrong year, a precise citation that does not exist).
   → [The evening: reasoning at zero](#the-evening-of-5-september-reasoning-at-zero)
 - **5 Sep 2026 · The first real drift, and an age that is earned.** The night's photograph, taken
   with the same ruler as yesterday's, moved exactly four engrams out of 242 — the four the pruning had
@@ -398,8 +399,11 @@ lifestyle…»; after: «You need 6 hours a night.», «You write with your left
 memory recalled each time. The six invented world entities (a prize, a province, a symphony, a
 football club, a drug, a novel) stayed grey: the bare model already says «no such province exists»,
 «I found no information», and in one case went to the web to check. Eighteen voids measured, zero
-inventions: the «knowing that one does not know» is already in this model's statistics, so the
-planned void-as-a-spike mechanism was closed without being built. A first-times registry now watches
+inventions on those — but they were easy voids, names that sound invented, and this model does
+hallucinate elsewhere. So the void-as-a-spike mechanism is suspended, not closed: the next bench asks
+plausible falsehoods (a real prize with the wrong year, a precise citation that does not exist, an
+invented work by a real author, an obscure date); if the model invents there, the mechanism gets
+built and measured there. A first-times registry now watches
 live chats for the brain taking a position outside any bench (a person fact deciding an answer, a
 monologue hop used, a confirmed self-declared link) and rings once, the first time each happens.
 

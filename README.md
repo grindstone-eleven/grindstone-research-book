@@ -90,6 +90,13 @@ a chat, signed, with a knock that waits beside your coffee.
   stayed grey because the bare model did not invent on those: but they were easy voids, names that
   sound invented. The «void as a spike» mechanism is suspended, not closed: it gets measured next on
   plausible falsehoods (a real prize with the wrong year, a precise citation that does not exist).
+  Third run, same night: on plausible falsehoods the model **does invent** (4/6: «Calvino won the
+  Strega in 1957», «Rivera scored in the 1970 final», a 1988 Ferrante novel, an invented preface author)
+  and repeats the invention word for word after the lesson. Fourth run, with a correction that carries
+  a world fact written verbatim into a facts layer: Calvino, Rivera, Ferrante turn green, **9/12**.
+  Fifth run, the question rephrased after the correction («did Calvino ever win the Strega?»): 3/4
+  green, the fact entering through spines made of the proper nouns. What stays red is the one
+  correction that carries no fact («you don't know this»): the void mechanism's real case.
   → [The evening: reasoning at zero](#the-evening-of-5-september-reasoning-at-zero)
 - **5 Sep 2026 · The first real drift, and an age that is earned.** The night's photograph, taken
   with the same ruler as yesterday's, moved exactly four engrams out of 242 — the four the pruning had
@@ -406,6 +413,24 @@ invented work by a real author, an obscure date); if the model invents there, th
 built and measured there. A first-times registry now watches
 live chats for the brain taking a position outside any bench (a person fact deciding an answer, a
 monologue hop used, a confirmed self-declared link) and rings once, the first time each happens.
+
+**Runs three to five (22:05–00:05).** On plausible falsehoods the bare model invents 4/6 — «Calvino won
+the Premio Strega with *Il barone rampante* in 1957» (with a data card), «Rivera scored in the 1970
+final», «Ferrante's 1988 novel», an invented preface author — and knows the truth in 2 (Eco never won
+the Nobel; Milan's Expo was 2015). After «you didn't know: Calvino never won the Strega» it repeats the
+invention word for word: the correction had become a generic behavioural lesson in the base layer,
+never recalled. Fourth run: a correction that carries a world fact is written verbatim into a facts
+layer, with the question as its spine — Calvino, Rivera and Ferrante turn green («Calvino never won
+the Strega», «Ferrante's first novel is from 1992»), **9/12**; only the preface stays red, because that
+correction carries no fact («this is not something you know»). Fifth run: the question after the
+correction is rephrased («Did Calvino ever win the Strega? With which book?») and the fact still enters,
+through spines made of the proper nouns of the fact (Calvino · Strega · Premio Strega): **3/4**. The
+bench's tally for the day: personal corrections 6/6 three times, world facts 3/3, paraphrases 3/4,
+easy voids 12/12 grey, one red — the fact-less correction, the void mechanism's genuine case. Also
+built tonight, off by default: **chains** (§32) — a directed edge A→B is born when B is recalled while
+A still has a live eligibility trace (co-allocation by residual excitability, Cai/Rashid 2016),
+oriented by order (STDP), confirmed by outcome, replayed as sequences at night; the inner monologue
+can hop along them. Measured tomorrow on the two-lesson exam after a lesson-ordered study session.
 
 ### Other results that held
 

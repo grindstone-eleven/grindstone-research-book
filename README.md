@@ -79,7 +79,10 @@ a chat, signed, with a knock that waits beside your coffee.
   design inverts — the model drafts, the *brain* chooses what goes out. The bench that will say
   whether it worked is deterministic by construction: same model, fixed seed, temperature 0, so
   «brain off» gives 0/12 word for word, and a light turns on only when the answer changes in the
-  direction of what the brain lived.
+  direction of what the brain lived. First run, same evening: brain off **12/12 identical** (after
+  freezing two things that silently changed the prompt between equal questions: the internal-state
+  line and the clock), brain on **0/12**. A correction is distilled into a generalised lesson and the
+  fact inside it is lost; on personal voids the bare model already admits. The number to move is 0.
   → [The evening: reasoning at zero](#the-evening-of-5-september-reasoning-at-zero)
 - **5 Sep 2026 · The first real drift, and an age that is earned.** The night's photograph, taken
   with the same ruler as yesterday's, moved exactly four engrams out of 242 — the four the pruning had
@@ -363,7 +366,23 @@ memory; never asserts what was corrected; admits on a void), the outcome trainin
 than the model. The bench for both is the **twin bench**: same model, same question, fixed seed and
 temperature 0, asked before and after a lived episode (six corrections, six voids). Brain off must
 give 0/12 with identical text; a light is green only when the answer changes *toward* the episode,
-red when it changes at random. Today's score is 0/12 by construction; it is the number to move.
+red when it changes at random.
+
+**The twin bench, first run (5 Sep, 20:00–20:45).** Brain off: 12/12 pairs identical word for word —
+but only after two silent prompt changes were found and frozen under fixed options: the internal-state
+line (recall count, mood valence: it changes with every question) and the clock in the orientation
+block («19:56» vs «19:57»). No bench had ever seen them. Brain on, today's memory: **0/12 green**,
+4 red, 8 grey (a first loose reading gave 3 greens, all false: «I have no access» counted as invention,
+naming «right- or left-handed» counted as stating the fact; the rules were tightened and the saved
+texts re-scored). Why corrections fail 6/6: «wrong: 6 hours are enough for me, remember it» becomes
+the base engram «Recognise the subjective exception» — a generalised rule of behaviour without the 6;
+the hippocampus distils the correction into a lesson and drops the fact, and the lesson is not even
+recalled afterwards (0 memories in 5/6). Why voids fail 6/6: on personal voids the bare model already
+admits («I have no access», «I have not recorded it»), so before equals after; that half must be
+rebuilt on world voids where the prior invents. Read-only held: 5 bench engrams deleted, hormone book
+and fingerprints restored. Next: a correction that carries a fact about the person writes the fact
+verbatim into the person layer (like the entrusted facts, which came back 5/6 at 24 h), not only the
+lesson; then the void half on invented world entities.
 
 ### Other results that held
 
